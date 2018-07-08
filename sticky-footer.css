@@ -1,5 +1,9 @@
 /* Sticky footer styles
 -------------------------------------------------- */
+*{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
+
 html {
   position: relative;
   min-height: 100%;
